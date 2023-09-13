@@ -1,1 +1,1 @@
-# hw1_binary_hex_converter
+# binary_hex_converter
